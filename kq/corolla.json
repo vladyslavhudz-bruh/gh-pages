@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "full": {
+    "location_firmware": "https://github.com/vladyslavhudz-bruh/gh-pages/blob/main/firmware/kq/rootfs.corolla.squashfs"
+  }
+}
